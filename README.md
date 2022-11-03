@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LuBo
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning nodejs/react
+- 🌱 I’m currently learning nodejs/react/uniapp
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 1599504800@qq.com
 
